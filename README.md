@@ -24,7 +24,7 @@ STEPS:
  * 
  * Task 6:
  * Now, try setting a value to name in Main function using setter function and access it's value using getter function
- * 
+ * Errors: The field RWOnly.name is not visible
  * Learnings: 
  * Encapsulation is used for hidding data,
  * you can create a readOnly member, by just implementing getter funtion for that
