@@ -9,8 +9,8 @@ public class TestCases {
     
    public static void main(String args[]){
     RWOnly r = new RWOnly();
-    r.set("sahil chaudhari");
-    System.out.print(r.get());
+    r.setName("sahil chaudhari");
+    System.out.print(r.getName());
    }
 
     

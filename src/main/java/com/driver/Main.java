@@ -8,7 +8,7 @@ public class Main {
        // System.out.print(r.name);
        //The field RWOnly.name is not visible
        // The field RWOnly.name is not visible
-       r.set("Jatin");
-       System.out.print(r.get());
+       r.setName("Jatin");
+       System.out.print(r.getName());
     }
 }
